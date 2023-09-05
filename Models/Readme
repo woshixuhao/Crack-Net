@@ -1,2 +1,6 @@
 As the saved model parameters are large, we publish it on the figshare:  https://figshare.com/articles/dataset/Saved_model_parameters_for_Crack-Net/24080871  
-
+In the link:
+The Crack_net_model.pkl is the saved model parameters for Crack-Net trained with 554 cases of composites with A5B05.
+The Crack_net_optimizer.pkl is the saved optimizer states for Crack-Net trained with 554 cases of composites with A5B05.
+The Transfer_A5B50_model.pkl is the saved model parameters for the transfer learning by 120 cases of composites with A5B50.
+The Transfer_A5B50_optimizer.pkl is the saved optimizer states for the transfer learning by 120 cases of composites with A5B50.
