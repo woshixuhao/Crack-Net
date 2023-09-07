@@ -2,4 +2,5 @@ The datasets for Crack-Net
 As the dataset is very large (over 100GB), we publish them in other websites.
 The out-of-sample testing dataset for Crack-Net is available at: https://doi.org/10.5281/zenodo.8315052
 The training dataset for Crack-Net is available at: https://doi.org/10.5281/zenodo.8317763 (part 1,case 1~250) and https://doi.org/10.5281/zenodo.8320554 (part 2, case 251~554)
+The training and testing dataset for transfer learning is available at https://doi.org/10.5281/zenodo.8321256
 
